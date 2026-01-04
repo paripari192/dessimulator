@@ -1,0 +1,5 @@
+{
+  "name": "Bank Queue Sim gemini pro",
+  "description": "A discrete event simulation of a bank environment featuring different customer types (Walk-in, Reserved) and teller counters (High/Low). Visualize queues, adjust distributions, and analyze metrics.",
+  "requestFramePermissions": []
+}
